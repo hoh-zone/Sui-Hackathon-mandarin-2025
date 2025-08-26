@@ -3,8 +3,11 @@
 - 接入Passkey
 - 接入Astros来Swap
 
-[] 第2周 8月27号
-- 
+- [x] 第2周 8月27号
+- 完善`transfer card`界面并实现`transfer`功能
+- 接入`Navi`: `Supply`, `Withdraw`, `Rewards`
+- 自主组合`PTB`
+- 手续费：额外增收一整笔交易`gas`费的千分之一作为项目的收益来源（暂定）
 
 [] 第3周 9月3号
 - 
