@@ -10,7 +10,15 @@ TODO
 - 链上调试 Navi Protocol.
 
 []第2周 8月27号
-- 
+
+Done
+
+- 参考 EVM 上 x402 [scheme_exact_evm](https://github.com/coinbase/x402/blob/main/specs/schemes/exact/scheme_exact_evm.md) 以及 [scheme_exact_sui](https://github.com/coinbase/x402/blob/main/specs/schemes/exact/scheme_exact_sui.md) 设计实现基于 SUI Intent Signing 的 sepc.
+- 根据新设计 sui exact scheme spec  实现 ledgerflow-facilitator(in progress).
+
+TODO
+
+- 继续 ledgerflow-facilitator, 并完善 sui x402 spec.
 
 []第3周 9月3号
 - 
