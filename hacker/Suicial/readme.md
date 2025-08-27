@@ -14,8 +14,7 @@
 - [ChrisZyy](https://github.com/ChriszYy)
 > 自我介绍&技术栈: 大陆传统券商前端开发，技术栈主要JS, React, TS, Nextjs, 同时也是defi深度用户
 - [aimotee](https://github.com/aimotee)
-> 自我介绍&技术栈: 
-
+> 自我介绍&技术栈: 使用go进行后端开发以及evm，move，sol合约开发
 ## 参赛信息
 - [项目代码1](https://github.com/ChrisZyy3/Suicial)
 - [PPT]()
