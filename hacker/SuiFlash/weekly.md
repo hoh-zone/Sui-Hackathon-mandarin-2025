@@ -10,7 +10,17 @@ TODO
 - 链上调试 Navi Protocol.
 
 []第2周 8月27号
-- 
+
+Done
+- 熟悉 navi protocol 链上合约接口与 lending 模块.
+- 集成 grpc 实时索引链上数据功能, 实时获取 navi protocol 上 coins flash loan fee 信息.
+
+Side Project
+- <https://github.com/longcipher/suix> support grpc sub command
+- <https://github.com/longcipher/sui-indexer> sui indexer based on grpc
+
+TODO
+- 完整 navi protocol 全链路流程测试, 从 bot 到合约 settle 完成闪电贷.
 
 []第3周 9月3号
 - 
