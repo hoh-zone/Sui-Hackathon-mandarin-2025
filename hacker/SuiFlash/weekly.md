@@ -22,8 +22,13 @@ Side Project
 TODO
 - 完整 navi protocol 全链路流程测试, 从 bot 到合约 settle 完成闪电贷.
 
-[]第3周 9月3号
-- 
+[x]第3周 9月3号
+
+DONE
+- suiflash router 合约 flash_loan_coin 流程开发以及部署到[testnet](https://testnet.suivision.xyz/package/0x32d3f30fa72a4bff59a60d1d5184fdfe235d1461e1567d513901f92ff3baba98?tab=Code)
+
+TODO
+- 使用主网调试集成 navi protocol
 
 []第4周 9月10号
 - 
